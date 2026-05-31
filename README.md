@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=GURMAN%20SINGH&fontSize=85&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=GURMAN%20SINGH&fontSize=90&fontColor=ffffff&animation=twinkling" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=34&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1400&lines=👋+Hi+I'm+Gurman+Singh;💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Student;⚛️+React+%7C+Next.js+%7C+Node.js;🚀+Building+Modern+Digital+Experiences;🌟+Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=36&pause=1000&color=00E5FF&center=true&vCenter=true&width=1400&lines=👋+Hi+I'm+Gurman+Singh;💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Student;⚛️+React+%7C+Next.js+Developer;🚀+Building+Modern+Web+Applications;🌟+Open+Source+Enthusiast;🔥+Always+Learning+Always+Building" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=GurmanSingh7&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=GurmanSingh7&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/GurmanSingh7?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/GurmanSingh7?style=for-the-badge&logo=github" />
 
-<img src="https://img.shields.io/github/stars/GurmanSingh7?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/GurmanSingh7?style=for-the-badge&logo=github" />
 
 </div>
 
@@ -23,21 +23,23 @@
 ```yaml
 Name: Gurman Singh
 
-Degree: B.Tech CSE (AI & ML)
+Education:
+  B.Tech CSE (AI & ML)
 
-Role: Full Stack Developer
+Role:
+  Full Stack Developer
 
-Currently Working On:
-  - React Applications
-  - Next.js Projects
-  - AI Solutions
-  - Portfolio Development
-
-Learning:
-  - Data Structures & Algorithms
-  - System Design
+Current Focus:
+  - React.js
+  - Next.js
+  - Node.js
+  - Artificial Intelligence
   - Machine Learning
-  - Advanced Backend Development
+
+Goal:
+  Build impactful software,
+  contribute to open source,
+  and become a top software engineer.
 ```
 
 ---
@@ -52,74 +54,125 @@ Learning:
 
 ---
 
+# 🛠️ Development Workflow
+
+```text
+Idea
+ ↓
+Planning
+ ↓
+Design
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Maintenance
+```
+
+---
+
 # 🏆 Featured Projects
 
-| Project                        | Description                         |
-| ------------------------------ | ----------------------------------- |
-| 🌐 Portfolio Website           | Personal developer portfolio        |
-| 🤖 AI ChatBot                  | AI-powered conversational assistant |
-| 🎬 Movie Ticket Booking System | C++ OOP project                     |
-| 💎 Gem Crush Game              | Interactive puzzle game             |
-| ⚛️ React Projects              | Modern frontend applications        |
+## 🌐 Portfolio Website
+Modern portfolio website showcasing skills, projects, and achievements.
+
+## 🤖 AI ChatBot
+AI-powered chatbot with responsive UI and interactive experience.
+
+## 🎬 Movie Ticket Booking System
+C++ project implementing Object-Oriented Programming concepts.
+
+## 💎 Gem Crush Game
+Interactive puzzle game with score tracking and combo mechanics.
+
+## ⚛️ React Projects
+Modern frontend projects built with React and Next.js.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+            ↓
+Advanced React
+            ↓
+System Design
+            ↓
+Machine Learning
+            ↓
+Artificial Intelligence
+```
 
 ---
 
 # 🎯 2026 Goals
 
-```text
-Master Full Stack Development
-            ↓
-Build Production SaaS Products
-            ↓
-Contribute To Open Source
-            ↓
-Advance In AI & Machine Learning
-            ↓
-Become A Professional Software Engineer
-```
+- 🚀 Build Production Grade Applications
+- 🤖 Create AI-Powered Solutions
+- 🌍 Contribute To Open Source
+- 📚 Master DSA & Problem Solving
+- 💼 Secure High Impact Software Roles
+- ⚡ Launch Personal Products & SaaS
 
 ---
 
 # 🌐 Connect With Me
 
-GitHub:
+### GitHub
+
 https://github.com/GurmanSingh7
 
-Portfolio:
+### Portfolio
+
 https://gurmansingh7.github.io/Dev-Team-Owner-Gurman-Singh-PortFolio-Website/
 
-LinkedIn:
+### LinkedIn
+
 https://www.linkedin.com/in/gurmansingh101
 
-Email:
-[gurmansingh57801@gmail.com](mailto:gurmansingh57801@gmail.com)
+### Email
+
+gurmansingh57801@gmail.com
+
+---
+
+# 💡 Developer Quote
+
+```text
+"Code. Learn. Build. Improve.
+Repeat until impossible becomes possible."
+```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Thanks+For+Visiting+My+Profile;Open+To+Learning+And+Collaboration;Building+The+Future+With+Code+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Thanks+For+Visiting+My+Profile;Always+Learning+Always+Building;Turning+Ideas+Into+Reality+🚀;See+You+In+The+Next+Project" />
 
 </div>
