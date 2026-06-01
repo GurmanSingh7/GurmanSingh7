@@ -1,178 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=GURMAN%20SINGH&fontSize=90&fontColor=ffffff&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=1000&lines=Hey+there!+I'm+Gurman+Singh+👋;AI+%26+ML+Developer;Full+Stack+Web+Developer;Building+The+Future+With+Code+🚀" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=36&pause=1000&color=00E5FF&center=true&vCenter=true&width=1400&lines=👋+Hi+I'm+Gurman+Singh;💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Student;⚛️+React+%7C+Next.js+Developer;🚀+Building+Modern+Web+Applications;🌟+Open+Source+Enthusiast;🔥+Always+Learning+Always+Building" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=GurmanSingh7&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/GurmanSingh7?style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/stars/GurmanSingh7?style=for-the-badge&logo=github" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,50:7B61FF,100:FF00FF&text=GURMAN%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
----
+# 💫 About Me
 
-# 🚀 About Me
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RwOG4zdDBsdWc5Y2t2c2VxM3I1OWs1NG1tb3U3YmE1c2c0aWh5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-```yaml
-Name: Gurman Singh
+🚀 B.Tech CSE (AI & ML)
 
-Education:
-  B.Tech CSE (AI & ML)
+💡 Passionate about Artificial Intelligence
 
-Role:
-  Full Stack Developer
+🌐 Full Stack Development Enthusiast
 
-Current Focus:
-  - React.js
-  - Next.js
-  - Node.js
-  - Artificial Intelligence
-  - Machine Learning
+🤖 Building AI Products & SaaS Applications
 
-Goal:
-  Build impactful software,
-  contribute to open source,
-  and become a top software engineer.
-```
+📈 Learning System Design & Cloud Computing
+
+🏆 Open Source Contributor
+
+🎯 Goal: Build a Global Tech Company
 
 ---
 
-# ⚡ Tech Stack
+## 🌌 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%">
+</p>
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,vercel,tailwind,bootstrap,firebase,tensorflow" />
 
 </div>
 
 ---
 
-# 🛠️ Development Workflow
+## 🚀 Featured Projects
 
-```text
-Idea
- ↓
-Planning
- ↓
-Design
- ↓
-Development
- ↓
-Testing
- ↓
-Deployment
- ↓
-Maintenance
-```
+| Project | Description |
+|----------|------------|
+| 🤖 AI ChatBot | Advanced AI Assistant |
+| 🌐 Portfolio Website | Modern GSAP Portfolio |
+| 🛒 E-Commerce Platform | Full Stack Shopping App |
+| 🎨 UI Library | Reusable Components |
+| 📊 AI Dashboard | Analytics Platform |
 
 ---
 
-# 🏆 Featured Projects
-
-## 🌐 Portfolio Website
-Modern portfolio website showcasing skills, projects, and achievements.
-
-## 🤖 AI ChatBot
-AI-powered chatbot with responsive UI and interactive experience.
-
-## 🎬 Movie Ticket Booking System
-C++ project implementing Object-Oriented Programming concepts.
-
-## 💎 Gem Crush Game
-Interactive puzzle game with score tracking and combo mechanics.
-
-## ⚛️ React Projects
-Modern frontend projects built with React and Next.js.
-
----
-
-# 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏅 GitHub Achievements
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+## 🏆 GitHub Trophies
 
-```text
-Data Structures & Algorithms
-            ↓
-Advanced React
-            ↓
-System Design
-            ↓
-Machine Learning
-            ↓
-Artificial Intelligence
-```
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
-# 🎯 2026 Goals
+## 📊 Activity Graph
 
-- 🚀 Build Production Grade Applications
-- 🤖 Create AI-Powered Solutions
-- 🌍 Contribute To Open Source
-- 📚 Master DSA & Problem Solving
-- 💼 Secure High Impact Software Roles
-- ⚡ Launch Personal Products & SaaS
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
 
-# 🌐 Connect With Me
-
-### GitHub
-
-https://github.com/GurmanSingh7
-
-### Portfolio
-
-https://gurmansingh7.github.io/Dev-Team-Owner-Gurman-Singh-PortFolio-Website/
-
-### LinkedIn
-
-https://www.linkedin.com/in/gurmansingh101
-
-### Email
-
-gurmansingh57801@gmail.com
+</div>
 
 ---
 
-# 💡 Developer Quote
+## 🌍 Connect With Me
 
-```text
-"Code. Learn. Build. Improve.
-Repeat until impossible becomes possible."
-```
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Thanks+For+Visiting+My+Profile;Always+Learning+Always+Building;Turning+Ideas+Into+Reality+🚀;See+You+In+The+Next+Project" />
+### 🚀 "Turning Ideas Into Reality Through Code"
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00E5FF,50:7B61FF,100:FF00FF"/>
