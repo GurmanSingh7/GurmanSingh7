@@ -31,7 +31,7 @@
 ## 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurmanSingh7&theme=tokyonight" width="100%">
 </p>
 
 ---
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanSingh7&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -104,15 +104,15 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/GurmanSingh7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/gurmansingh101">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="gurmansingh57801@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
@@ -124,7 +124,7 @@
 
 ### 🚀 "Turning Ideas Into Reality Through Code"
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=GurmanSingh7&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
