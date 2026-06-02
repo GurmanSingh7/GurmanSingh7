@@ -102,9 +102,13 @@
 
 ---
 
-# 🐍 Contribution Snake
+### 🐍 My Contributions
 
-![Snake animation](https://github.com/GurmanSingh7/GurmanSingh7/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GurmanSingh7/GurmanSingh7/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-contribution-grid-snake" src="https://github.com/GurmanSingh7/GurmanSingh7/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 # 🔥 Current Focus
