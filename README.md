@@ -104,11 +104,7 @@
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GurmanSingh7/GurmanSingh7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanSingh7&theme=tokyo-night&hide_border=true" width="100%">
 
 ---
 
