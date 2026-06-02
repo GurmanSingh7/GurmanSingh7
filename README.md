@@ -37,15 +37,15 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/GurmanSingh7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/gurmansingh07">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:gurmansingh57801@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -66,9 +66,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanSingh7&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/GurmanSingh7/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -138,7 +138,7 @@ Goals 2026:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=GurmanSingh7&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
