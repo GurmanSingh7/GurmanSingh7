@@ -104,7 +104,36 @@
 
 # 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanSingh7&theme=tokyo-night&hide_border=true" width="100%">
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          GurmanSingh7: ${{ Gurman Singh }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
