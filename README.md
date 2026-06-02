@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GurmanSingh7/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/GurmanSingh7/GurmanSingh7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
