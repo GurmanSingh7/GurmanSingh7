@@ -94,11 +94,9 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GurmanSingh7's Trophies" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
