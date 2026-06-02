@@ -68,17 +68,11 @@
 
 <img width="49%" src="https://streak-stats.demolab.com?user=GurmanSingh7&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=GurmanSingh7&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
 
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=github_dark)
 
 ---
 
