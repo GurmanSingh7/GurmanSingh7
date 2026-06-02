@@ -104,37 +104,7 @@
 
 # 🐍 Contribution Snake
 
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */24 * * *" 
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          GurmanSingh7: ${{ Gurman Singh }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+![Snake animation](https://github.com/GurmanSingh7/GurmanSingh7/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 🔥 Current Focus
