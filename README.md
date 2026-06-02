@@ -1,119 +1,144 @@
-<div align="center">  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=1000&lines=Hey+there!+I'm+Gurman+Singh+👋;AI+%26+ML+Developer;Full+Stack+Web+Developer;Building+The+Future+With+Code+🚀" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Gurman+Singh;AI+%26+ML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%9A%80;Building+Innovative+Digital+Experiences+%E2%9C%A8" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,50:7B61FF,100:FF00FF&text=GURMAN%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://user-images.githubusercontent.com/74038190/212750689-f7c1f4b5-52f9-4f36-9d17-f2f7d8e0e0d3.gif" width="700"/>
 
 </div>
 
+---
+
 # 💫 About Me
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RwOG4zdDBsdWc5Y2t2c2VxM3I1OWs1NG1tb3U3YmE1c2c0aWh5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd1Ym5vaTF0MW1vN3JxMXo2Zm9lZzZtOWdwaGVjM3I1MWN4dnQ1NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 🚀 B.Tech CSE (AI & ML)
 
-💡 Passionate about Artificial Intelligence
+💡 Passionate about Artificial Intelligence & Full Stack Development
 
-🌐 Full Stack Development Enthusiast
+🌱 Currently learning:
+- Machine Learning
+- Deep Learning
+- Next.js
+- System Design
 
-🤖 Building AI Products & SaaS Applications
+🎯 Goal:
+- Become a highly skilled Software Engineer
+- Secure a top tech role
+- Contribute to impactful open-source projects
 
-📈 Learning System Design & Cloud Computing
-
-🏆 Open Source Contributor
-
-🎯 Goal: Build a Global Tech Company
+⚡ Fun Fact:
+> "Consistency beats motivation."
 
 ---
 
-## 🌌 3D Contribution Graph
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurmanSingh7&theme=tokyonight" width="100%">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,vercel,tailwind,bootstrap,firebase,tensorflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,git,github,vscode,tailwind,firebase&perline=9"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| 🤖 AI ChatBot | Advanced AI Assistant |
-| 🌐 Portfolio Website | Modern GSAP Portfolio |
-| 🛒 E-Commerce Platform | Full Stack Shopping App |
-| 🎨 UI Library | Reusable Components |
-| 📊 AI Dashboard | Analytics Platform |
-
----
-
-## 📈 GitHub Analytics
+# 🚀 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-## 📊 Activity Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanSingh7&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 🌍 Connect With Me
+# 🔥 Current Focus
+
+```yaml
+Learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Full Stack Development
+
+Building:
+  - AI Powered Applications
+  - Modern Web Platforms
+
+Goals 2026:
+  - Open Source Contributions
+  - Strong DSA
+  - Internship
+  - Placement Preparation
+```
+
+---
+
+# 📊 Profile Views
 
 <div align="center">
 
-<a href="https://github.com/GurmanSingh7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/gurmansingh101">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="gurmansingh57801@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -121,10 +146,8 @@
 
 <div align="center">
 
-### 🚀 "Turning Ideas Into Reality Through Code"
+## 🚀 "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=GurmanSingh7&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D9FF,100:0066FF&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00E5FF,50:7B61FF,100:FF00FF"/>
