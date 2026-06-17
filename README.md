@@ -173,15 +173,6 @@ AI/ML    ████████░░░░░░░░ 50%
 
 ---
 
-# 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GurmanSingh7/GurmanSingh7/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-contribution-grid-snake" src="https://github.com/GurmanSingh7/GurmanSingh7/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 # 🔥 Current Focus
 
 ```yaml
@@ -210,12 +201,6 @@ Goals 2026:
 
 <img src="https://komarev.com/ghpvc/?username=GurmanSingh7&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/skill-radar.svg" width="450"/>
 </div>
 
 ---
