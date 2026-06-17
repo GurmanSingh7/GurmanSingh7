@@ -130,11 +130,6 @@ AI/ML    ████████░░░░░░░░ 50%
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -152,11 +147,10 @@ AI/ML    ████████░░░░░░░░ 50%
 
 # 🚀 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com?user=GurmanSingh7&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7&theme=tokyonight"/>
+</p>
 
 <br>
 
