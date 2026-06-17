@@ -221,6 +221,12 @@ Goals 2026:
 ---
 
 <div align="center">
+  <img src="./assets/skill-radar.svg" width="450"/>
+</div>
+
+---
+
+<div align="center">
 
 ## 🚀 "Code. Learn. Build. Repeat."
 
