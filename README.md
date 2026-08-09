@@ -124,7 +124,7 @@ Frontend ████████████████ 100%
 Backend  ██████████████░░ 85%
 DSA      ████████████░░░░ 75%
 DevOps   ██████████░░░░░░ 65%
-AI/ML    ████████░░░░░░░░ 50%
+AI/ML    █████████████░░░ 80%
 ```
 
 </div>
@@ -147,10 +147,11 @@ AI/ML    ████████░░░░░░░░ 50%
 
 # 🚀 GitHub Analytics
 
+<!-- PERSONAL_STREAK_START -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/🔥%20Personal%20Coding%20Streak-55%20Days-9B59E6?style=for-the-badge&labelColor=1a1b27" />
 </p>
+<!-- PERSONAL_STREAK_END -->
 
 <br>
 
