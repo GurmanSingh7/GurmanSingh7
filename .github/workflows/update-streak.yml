@@ -2,7 +2,7 @@ name: Update Personal Coding Streak
 
 on:
   schedule:
-    # 00:05 AM IST every day
+    # Runs every day at approximately 12:05 AM IST
     - cron: "35 18 * * *"
 
   workflow_dispatch:
@@ -15,7 +15,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -23,15 +24,15 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Update streak
+      - name: Generate Streak Card
         run: python scripts/update_streak.py
 
-      - name: Commit updated streak
+      - name: Commit Updated Streak
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md
+          git add assets/streak-card.svg
 
           git diff --cached --quiet || git commit -m "🔥 Update personal coding streak"
 
