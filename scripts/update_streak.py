@@ -134,51 +134,37 @@ svg = f"""<svg
     <!-- ================================================= -->
 
     <!-- Streak circle -->
-    <circle
-        cx="420"
-        cy="110"
-        r="57"
-        fill="none"
-        stroke="#6EA8FF"
-        stroke-width="8"
-    />
+   <circle
+    cx="420"
+    cy="112"
+    r="56"
+    fill="none"
+    stroke="#6EA8FF"
+    stroke-width="8"
+/>
 
 
-    <!-- Clean flame -->
-    <path
-        d="
-        M420 27
-        C425 34 430 40 429 47
-        C428 52 425 55 421 57
-
-        C422 52 420 48 417 45
-
-        C412 50 409 55 410 61
-        C411 68 415 73 421 73
-
-        C428 73 433 68 433 61
-
-        C433 54 429 49 425 44
-
-        C425 49 423 52 420 54
-
-        C422 47 422 37 420 27
-        Z"
-        fill="#6EA8FF"
-    />
+   <text
+    x="420"
+    y="62"
+    text-anchor="middle"
+    font-family="Segoe UI Emoji, Apple Color Emoji, Arial, sans-serif"
+    font-size="30">
+    🔥
+</text>
 
 
     <!-- Personal streak number -->
-    <text
-        x="420"
-        y="127"
-        text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="43"
-        font-weight="700"
-        fill="#BB86FC">
-        {current_streak}
-    </text>
+  <text
+    x="420"
+    y="130"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="43"
+    font-weight="700"
+    fill="#BB86FC">
+    {current_streak}
+</text>
 
 
     <!-- Personal streak heading -->
