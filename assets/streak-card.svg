@@ -1,0 +1,173 @@
+<svg width="840" height="313"
+viewBox="0 0 840 313"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect
+    x="2"
+    y="2"
+    width="836"
+    height="309"
+    rx="9"
+    fill="#171923"
+    stroke="#CDD4E0"
+    stroke-width="2"
+/>
+
+<!-- LEFT DIVIDER -->
+
+<line
+    x1="296"
+    y1="42"
+    x2="296"
+    y2="257"
+    stroke="#CDD4E0"
+    stroke-width="1"
+/>
+
+<!-- RIGHT DIVIDER -->
+
+<line
+    x1="544"
+    y1="42"
+    x2="544"
+    y2="257"
+    stroke="#CDD4E0"
+    stroke-width="1"
+/>
+
+
+<!-- ================================================= -->
+<!-- LEFT : TOTAL CONTRIBUTIONS -->
+<!-- ================================================= -->
+
+<text
+    x="171"
+    y="122"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="46"
+    font-weight="700"
+    fill="#6EA8FF">
+    1,187
+</text>
+
+<text
+    x="171"
+    y="176"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="21"
+    fill="#6EA8FF">
+    Total Contributions
+</text>
+
+<text
+    x="171"
+    y="222"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="17"
+    fill="#42D6C8">
+    Feb 19 - Present
+</text>
+
+
+<!-- ================================================= -->
+<!-- CENTER : PERSONAL STREAK -->
+<!-- ================================================= -->
+
+<circle
+    cx="420"
+    cy="103"
+    r="61"
+    fill="none"
+    stroke="#6EA8FF"
+    stroke-width="8"
+/>
+
+<!-- FLAME -->
+
+<path
+    d="
+    M420 24
+    C430 36 431 46 423 54
+    C436 52 442 62 442 72
+    C442 84 432 92 420 92
+    C408 92 398 84 398 72
+    C398 62 405 55 412 49
+    C410 58 416 63 421 60
+    C428 55 427 43 420 24 Z"
+    fill="#6EA8FF"
+/>
+
+<!-- STREAK NUMBER -->
+
+<text
+    x="420"
+    y="119"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="43"
+    font-weight="700"
+    fill="#BB86FC">
+    55
+</text>
+
+<text
+    x="420"
+    y="207"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="20"
+    font-weight="700"
+    fill="#C89AF7">
+    Personal Streak
+</text>
+
+<text
+    x="420"
+    y="251"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="17"
+    fill="#42D6C8">
+    Aug 9 - Aug 9
+</text>
+
+
+<!-- ================================================= -->
+<!-- RIGHT : LONGEST STREAK -->
+<!-- ================================================= -->
+
+<text
+    x="669"
+    y="122"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="46"
+    font-weight="700"
+    fill="#6EA8FF">
+    54
+</text>
+
+<text
+    x="669"
+    y="176"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="21"
+    fill="#6EA8FF">
+    Longest Streak
+</text>
+
+<text
+    x="669"
+    y="222"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="17"
+    fill="#42D6C8">
+    Jun 15 - Aug 7
+</text>
+
+</svg>
