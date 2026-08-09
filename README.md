@@ -148,9 +148,15 @@ AI/ML    █████████████░░░ 80%
 # 🚀 GitHub Analytics
 
 <!-- PERSONAL_STREAK_START -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Personal%20Coding%20Streak-55%20Days-9B59E6?style=for-the-badge&labelColor=1a1b27" />
+  <img
+    src="./assets/streak-card.svg"
+    alt="Personal Coding Streak"
+    width="840"
+  />
 </p>
+
 <!-- PERSONAL_STREAK_END -->
 
 <br>
