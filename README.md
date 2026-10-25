@@ -158,10 +158,6 @@ AI/ML    █████████████░░░ 80%
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 # 🔥 Current Focus
@@ -198,7 +194,6 @@ Goals 2026:
 
 ## 🚀 "Code. Learn. Build. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D9FF,100:0066FF&section=footer" alt="Wave footer" />
 
 </div>
 
