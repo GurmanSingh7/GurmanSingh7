@@ -117,7 +117,7 @@
 ## 🚀 GurmanSingh7's Developer Journey
 
 ```txt
-Frontend █████████████████ 100%
+Frontend ████████████████ 100%
 Backend  ██████████████░░ 85%
 DSA      ████████████░░░░ 75%
 DevOps   ██████████░░░░░░ 65%
